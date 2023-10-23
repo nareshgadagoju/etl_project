@@ -4,7 +4,7 @@
 This project is an End-To-End Data Engineering project that utilizes Python, Apache Airflow, and AWS S3 to extract, transform, and load data from the Twitter API. The goal is to create a scalable and automated data pipeline for collecting and storing Twitter data in an AWS S3 bucket.
 
 ## Architecture
-!(https://github.com/nareshgadagoju/etl_project/blob/main/aws.jpg)
+![Alt text](https://github.com/nareshgadagoju/etl_project/blob/main/architecture.jpg)
 
 ## Project Components
 The project consists of the following components:
